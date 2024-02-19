@@ -1,12 +1,11 @@
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-|
-ETSafe                                                                     
----------------------------------------------------------------------------|
-Sistema de información de enfermedades de trasmision sexual                
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-|
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[Name] ETSafe                                                                     
+-------------
+[Description]Sistema de información de enfermedades de trasmision sexual                
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-Developed by Andres Caliz, Luis David Mora, Jesús Ortiz
+Developed by: Andres Caliz, Luis David Mora, Jesús Ortiz
 Mail:
-
 
 [About]
 ¡Descubra su camino hacia una salud sexual más segura con ETSAFE!
@@ -16,4 +15,4 @@ Información completa: acceda a una base de datos completa con información deta
 Pruebas y seguimiento: encuentre centros de salud cercanos para pruebas de ETS y establezca recordatorios para pruebas periódicas para garantizar la detección temprana y el tratamiento preventivo.
 Comunidad de apoyo: conéctese con otros usuarios en nuestros foros de discusión para compartir experiencias, consejos y apoyo, impulsados ​​por expertos en atención médica.
 
-----------------------------------------------------------------------------
+------------------------------------------------------------------------
